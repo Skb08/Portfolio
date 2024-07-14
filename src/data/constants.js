@@ -26,7 +26,7 @@ export const Bio = {
     description:
       "I am a enthusiast and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/Skb08",
-    resume: "https://drive.google.com/file/d/19LGnF2TUB7IEBgI88Qvh0tvMd5ryS60L/view",
+    resume: "https://drive.google.com/file/d/1gzYBCRm2PpMESk58-myzd5lPgVHQdt5S/view",
     linkedin: "hhttps://www.linkedin.com/in/suraj-kumar-behera-b3883222b",
     twitter: "https://twitter.com/behera_suraj08",
     insta: "https://instagram.com/surajkb810",
@@ -114,7 +114,7 @@ export const Bio = {
         {
           name: "Git",
           image:
-            "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+            "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
         },
         {
           name: "GitHub",
@@ -134,7 +134,7 @@ export const Bio = {
         {
           name: "Postman",
           image:
-            "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+            "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png",
         },
         {
           name: "Render",
@@ -222,11 +222,11 @@ export const Bio = {
   export const education = [
     {
       id: 0,
-      img: "https://www.nitrkl.ac.in/assets/images/pre-logo2.png",
+      img: "https://www.nitrkl.ac.in/assets/images/logo2.png",
       school: "National Institute of Technology, Rourkela",
-      date: "Oct 2021 - Sep 2025",
-      grade: "8.17 CGPA",
-      desc: "I am currently pursuing my B.Tech at National Institute of Technology, Rourkela. I have completed 4 semesters and have a CGPA of 8.17. I have intrest in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems and Web Development. ",
+      date: "Oct 2021 - Apr 2025",
+      grade: "8.34 CGPA",
+      desc: "I am currently pursuing my B.Tech at National Institute of Technology, Rourkela. I have completed 3rd year and have a CGPA of 8.34. I have intrest in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Open Source and Web Development. ",
       degree: "Bachelor of Technology - BTech",
     },
     {
